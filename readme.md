@@ -7,3 +7,6 @@ Proyecto de Automatizacion de la Infraestructura Digital II
 - Servidor de Bases de datos
 - Red Institucional
 - Laboratorios
+- Sistema academico
+- Camaras 
+- WiFi
